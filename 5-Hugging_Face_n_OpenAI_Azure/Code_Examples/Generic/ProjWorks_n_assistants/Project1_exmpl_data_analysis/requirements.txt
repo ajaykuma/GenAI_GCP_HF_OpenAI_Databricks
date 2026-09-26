@@ -1,0 +1,22 @@
+  #If directly installing in environment (notebook)
+#!pip install pypdf
+#!pip install numpy
+#!pip install scipy
+#!pip install pandas
+#!pip install --upgrade "langchain>=0.3.29" "langchain-core>=1.0.0" langchain-openai langchain_community
+  #If installing directly in environment (local machine/lab)
+#pip install pypdf
+#pip install numpy
+#pip install scipy
+#pip install pandas
+#pip install --upgrade "langchain>=0.3.29" "langchain-core>=1.0.0" langchain-openai langchain_community
+#If installing using 'pip install -r requirements.txt'
+#create a requirements.txt file
+pypdf
+numpy
+scipy
+pandas
+langchain>=0.3.29
+langchain-core>=1.0.0
+langchain-openai
+langchain_community

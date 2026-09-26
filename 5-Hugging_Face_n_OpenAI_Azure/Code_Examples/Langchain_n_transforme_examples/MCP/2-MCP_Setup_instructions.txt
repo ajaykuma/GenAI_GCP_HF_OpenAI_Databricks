@@ -14,7 +14,8 @@ E:\MCP\venv\Scripts>activate
 #if in linux: --to activate
 source venv/bin/activate
 
-(venv) E:\MCP\venv\Scripts>pip install mcp 
+(venv) E:\MCP\venv\Scripts>pip install mcp==1.26.0
+			   pip install mcp-inspector==0.1.0
 			   pip install dotenv
 			   pip install serpapi==0.1.5
 			   pip install google-search-results
