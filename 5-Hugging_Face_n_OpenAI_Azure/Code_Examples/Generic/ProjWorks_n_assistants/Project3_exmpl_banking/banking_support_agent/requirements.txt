@@ -1,4 +1,4 @@
-crewai>=0.86.0
+crewai==0.157
 streamlit>=1.38.0
 pandas>=2.2.0
 python-dotenv>=1.0.1
